@@ -1,8 +1,8 @@
 team: Jaguars
 
-manager: Stanley
+manager: Local branch main change
 
 members:
-- Caleb
-- Harvey
-- Myles
+  - Caleb
+  - Harvey
+  - Myles
